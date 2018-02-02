@@ -30,6 +30,11 @@ public class SecondActivity extends AppCompatActivity {
 
         int i = 1 + 7;
 
+        int ii = 3 + 7;
+
+        int iii = 3 + 7 + 9;
+
+
     }
 
 }
