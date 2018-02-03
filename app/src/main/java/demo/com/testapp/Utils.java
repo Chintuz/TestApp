@@ -9,4 +9,9 @@ public class Utils {
     public void sub() {
         int a = 2 - 1;
     }
+
+    public void mul() {
+        int a = 2 * 1;
+    }
+
 }
