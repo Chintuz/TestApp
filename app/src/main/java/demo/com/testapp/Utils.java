@@ -5,4 +5,8 @@ package demo.com.testapp;
  */
 
 public class Utils {
+
+    public void sub() {
+        int a = 2 - 1;
+    }
 }
