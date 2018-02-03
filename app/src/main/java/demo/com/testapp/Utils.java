@@ -7,8 +7,10 @@ package demo.com.testapp;
 public class Utils {
 
     public void sum() {
-        int a = 10 + 50;
+        int a = 100 + 500;
 
-        int b = 20 * 60;
+        int b = 200 * 600;
+
+        int c = 300 - 700;
     }
 }
