@@ -7,6 +7,6 @@ package demo.com.testapp;
 public class Utils {
 
     public void sum() {
-        int a = 1 + 1;
+        int a = 1 + 5;
     }
 }
