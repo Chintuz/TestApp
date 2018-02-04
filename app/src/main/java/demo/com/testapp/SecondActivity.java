@@ -34,7 +34,7 @@ public class SecondActivity extends AppCompatActivity {
 
         int iii = 3 + 7 + 9;
 
-
+        int sandeep = 9;
     }
 
 }
